@@ -1,9 +1,9 @@
-### Hi there
+### 3D Frontend engineer with expertise in ThreeJS & React
 
 <br />
 
 
-👋 **My Development Stacks**
+👋 **Development Stacks**
 
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
