@@ -1,6 +1,5 @@
 ### 3D Frontend engineer with expertise in ThreeJS & React
-Please visit 
-https://jiaqi-zhang-portfolio-website.vercel.app/
+Please visit ![Portfolio](https://jiaqi-zhang-portfolio-website.vercel.app/)
 <br />
 
 
