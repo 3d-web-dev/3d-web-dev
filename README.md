@@ -1,4 +1,4 @@
-### 3D Frontend Engineer with Expertise in ThreeJS & React
+### 3D Software Engineer
 <br />
 
 
